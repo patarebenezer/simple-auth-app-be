@@ -19,7 +19,8 @@ Before you begin, ensure you have met the following requirements:
    cd simple-auth-app-be
 
 2. Install dependency
-   ```bash pnpm install
+   ```bash
+   pnpm install
 
 3. Set up your environment variables. Create a .env file in the root directory and add the following:
    ```bash
